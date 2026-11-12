@@ -34,3 +34,5 @@ For privacy questions, use the contact details on the game's store page.
 ## پەیوەندی
 بۆ هەر پرسیارەکێ دەربارەی نهێنیێ، ب رێکا لینکا پەیوەندیێ یا لاپەرێ یاریێ د
 ستۆرێ دا پەیوەندیێ ب مە بکە.
+
+[Support and contact](support)
